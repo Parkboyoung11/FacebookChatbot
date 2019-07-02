@@ -1,0 +1,25 @@
+{
+  "name": "facebookchatbot",
+  "version": "1.0.0",
+  "description": "Auto Reply message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parkboyoung11/FacebookChatbot.git"
+  },
+  "keywords": [
+    "9fury"
+  ],
+  "author": "@9fury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parkboyoung11/FacebookChatbot/issues"
+  },
+  "homepage": "https://github.com/Parkboyoung11/FacebookChatbot#readme",
+  "dependencies": {
+    "facebook-chat-api": "^1.6.1"
+  }
+}
