@@ -10,7 +10,7 @@ login({email: "", password: ""}, function callback (err, api) {
         console.log(message.threadID);
         // if(!answeredThreads.hasOwnProperty(message.threadID)){
             answeredThreads[message.threadID] = true;
-            api.sendMessage("Em chào các anh ạ :v", message.threadID);
+            api.sendMessage("Liscia <3s", message.threadID);
         // }
     });
 });
